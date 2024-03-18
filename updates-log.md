@@ -91,3 +91,10 @@ things to improve:
     - taking the last 3 numbers willl miss out the times when the number is at 1020 and take it as 20
     - making it show up as anamoly
 - changed to take the last 4 numbers
+
+things to improve: 
+- see 22feb comments
+- led wire needs strain relief
+- v2 to be done by next fri(3 mar)
+- create a noise recorder for sci lab(sensor+sdcard)
+- generally clean it up

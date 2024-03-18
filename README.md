@@ -9,10 +9,3 @@ DATA:
 - cleaned up and formated with graph
 
 
-
-things to improve: 
-- see 22feb comments
-- led wire needs strain relief
-- v2 to be done by next fri(3 mar)
-- create a noise recorder for sci lab(sensor+sdcard)
-- generally clean it up

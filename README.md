@@ -1,34 +1,59 @@
 
+# Project Title
 
-# Noisy-Project
-This is a project by SSTudents for SSTudent to tell them to keep quiet during O Level Practical ;-;
-
-## How it works
-
-## Parts Used
-
-## To-do list
-- [ ] incomplete task
-- [x] completed task
+A brief description of what this project does and who it's for
 
 
+## Badges
 
 
-
-## Contributers
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
-## Mentors
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
 
 
+## FAQ
 
-Resources:
-Check Resouces file
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
 
 
-DATA:
-- https://docs.google.com/spreadsheets/d/15LAyMTHbB_BMNJQPM6f_D3sk5Pgjw4Z70jC2kamINOo/edit?usp=sharing (new)
-- https://docs.google.com/spreadsheets/d/1UvS9qfeL-FOSvyElGNO4R17XsOqtYgqw1WRZXdFCIbs/edit#gid=698862983 (decaprated)
+## Features
+
+- 
+
+
+## Roadmap
+
+- [ ] expand the mic system
+
+- [ ] fix rtf
+- [ ] List of items that is needed
+- [ ] invert data points so that graph is ok
+
+
+![Logo](https://drive.google.com/file/d/1AZ9nSUHELD9w9FCZuj3mjvu_tXqPaRC9/view?usp=sharing)https://drive.google.com/file/d/1AZ9nSUHELD9w9FCZuj3mjvu_tXqPaRC9/view?usp=sharing)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+## Authors
+
+- [
 
 

@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 ## Badges
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License] (https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Contributing
@@ -44,7 +44,6 @@ Answer 2
 - [ ] invert data points so that graph is ok
 
 
-![Logo](https://drive.google.com/file/d/1AZ9nSUHELD9w9FCZuj3mjvu_tXqPaRC9/view?usp=sharing)https://drive.google.com/file/d/1AZ9nSUHELD9w9FCZuj3mjvu_tXqPaRC9/view?usp=sharing)
 
 
 ## License

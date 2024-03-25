@@ -1,7 +1,7 @@
 ![Logo](https://i.imgur.com/wX8tC0d.png)
 # Noisy Project
 
-This project is aimed at helping maintain a quiet environment during O Level practical exams for students. It is designed and developed by students, likely for their fellow students appearing for these crucial exams.
+This project is aimed at helping maintain a quiet environment during O Level practical exams for students. Students designed and developed it for their fellow students appearing for these crucial exams.
 
 The system uses a microphone to detect sound levels in the examination room. If the sound levels exceed a certain threshold, indicating potential noise disturbance, it displays a red light as a visual cue for students to remain quiet. Conversely, when the sound levels are within the acceptable range, it shows a green light, signalling that the environment is appropriately quiet.
 

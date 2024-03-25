@@ -7,11 +7,11 @@ Resources:
 - [notes about the rtc charging circuit](https://forum.arduino.cc/t/zs-042-ds3231-rtc-module/268862 )
 - [lm358 audio preamp](https://digitalab.org/2016/08/microphone-pre-amplifier-using-lm358/#.Y_Y89exBwdH) 
 - [lm386 audio amp](https://digitalab.org/2012/10/audio-amplifier-using-lm386/#.Y_Y89exBwdF)
-- https://www.digikey.sg/en/products/detail/texas-instruments/LM358P/277042 lm358 datasheet
-- https://www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1675382777300&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358 lm358 datasheet again
-- https://www.whitenoisestudio.com/how-to/cable-soldering-schematics/ xlr mic wiring digram
-- https://bestengineeringprojects.com/microphone-amplifier-using-op-amp-741/ lm741 preamp
-- https://bestengineeringprojects.com/dynamic-microphone-pre-amplifier-circuit/ dynamic mic preamp without ic
+- [lm358 datasheet](https://www.digikey.sg/en/products/detail/texas-instruments/LM358P/277042)
+- [lm358 datasheet again](https://www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1675382777300&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358)
+- [xlr mic wiring diagram](https://www.whitenoisestudio.com/how-to/cable-soldering-schematics/)
+- [lm741 preamp](https://bestengineeringprojects.com/microphone-amplifier-using-op-amp-741/)
+- [dynamic mic preamp without ic](https://bestengineeringprojects.com/dynamic-microphone-pre-amplifier-circuit/)
 - http://www.learningaboutelectronics.com/Articles/Difference-amplifier-circuit.php lm741 preamp(didnt work)
 - http://www.learningaboutelectronics.com/Articles/How-to-connect-a-LM741-op-amp-chip-to-a-circuit lm741 amp(didnt work again)
 - https://www.got-it.ai/solutions/excel-chat/excel-tutorial/miscellaneous/copy-value-from-every-nth-row copying from every nth row excel

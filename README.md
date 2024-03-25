@@ -53,6 +53,11 @@ Answer 2
 
 
 ## Contributors
+| Profile | Name | Bio |
+| --- | --- | --- |
+| ![Emmanuel](https://i.imgur.com/p58UuPg.jpg) | Emmanuel Yee Hong Wei | [portfolio](https://read.cv/emmanuelyee) |
+| Cell 1, Row 2 | Cell 2, Row 2 | test |
+
 
 
 

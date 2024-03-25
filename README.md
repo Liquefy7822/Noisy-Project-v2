@@ -3,7 +3,7 @@
 
 This project is aimed at helping maintain a quiet environment during O Level practical exams for students. It is designed and developed by students, likely for their fellow students appearing for these crucial exams.
 
-The system works by using a microphone to detect sound levels in the examination room. If the sound levels exceed a certain threshold, indicating potential noise disturbance, it displays a red light as a visual cue for students to remain quiet. Conversely, when the sound levels are within the acceptable range, it shows a green light, signaling that the environment is appropriately quiet.
+The system uses a microphone to detect sound levels in the examination room. If the sound levels exceed a certain threshold, indicating potential noise disturbance, it displays a red light as a visual cue for students to remain quiet. Conversely, when the sound levels are within the acceptable range, it shows a green light, signalling that the environment is appropriately quiet.
 
 The primary purpose of this project is to serve as a gentle reminder for students to maintain silence during the practical examinations, thereby minimizing potential distractions and ensuring a conducive environment for everyone to concentrate and perform their best.
 
@@ -53,7 +53,9 @@ Answer 2
 
 
 ## Contributors
-[![EmmanuelYee](https://i.imgur.com/p58UuPg.png?size=50)](https://github.com/Liquefy7822)
+### Emmanuel Yee Hong Wei
+[![Emmanuel Yee](https://i.imgur.com/p58UuPg.png?size=50)](https://readme.cv/emmanuelyee)
+
 
 
 

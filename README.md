@@ -54,7 +54,7 @@ Answer 2
 
 ## Contributors
 ### Emmanuel Yee Hong Wei
-[![Emmanuel Yee](https://i.imgur.com/p58UuPg.png?size=50)](https://readme.cv/emmanuelyee)
+[![Emmanuel Yee](https://i.imgur.com/p58UuPg.png?size=50)](https://read.cv/emmanuelyee)
 
 
 

@@ -1,4 +1,4 @@
-
+![Logo](https://i.imgur.com/wX8tC0d.png)
 # Noisy Project
 
 This project is aimed at helping maintain a quiet environment during O Level practical exams for students. It is designed and developed by students, likely for their fellow students appearing for these crucial exams.

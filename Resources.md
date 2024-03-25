@@ -1,12 +1,12 @@
 Resources:
-- https://arduino-tutorials.net/tutorial/drawing-sound-sensor-data-on-serial-plotter sound sensor
-- https://www.circuitbasics.com/how-to-use-a-real-time-clock-module-with-the-arduino/#:~:text=An%20RTC%20is%20a%20very,and%20Time%20on%20an%20Arduino. rtc
-- https://randomnerdtutorials.com/guide-for-microphone-sound-sensor-with-arduino/ sound sensor
-- https://www.instructables.com/Arduino-Audio-Input/ arduino audio input
-- https://circuitdigest.com/microcontroller-projects/interfacing-ds3231-rtc-with-arduino-and-diy-digital-clock#:~:text=The%20RTC%20keeps%20track%20of,hour%20or%2012%2Dhour%20mode. arduino rtc how to use
-- https://forum.arduino.cc/t/zs-042-ds3231-rtc-module/268862 notes about the rtc charging circuit
-- https://digitalab.org/2016/08/microphone-pre-amplifier-using-lm358/#.Y_Y89exBwdH lm358 audio preamp
-- https://digitalab.org/2012/10/audio-amplifier-using-lm386/#.Y_Y89exBwdF lm386 audio amp
+- [sound sensor](https://arduino-tutorials.net/tutorial/drawing-sound-sensor-data-on-serial-plotter)
+- [rtc](https://www.circuitbasics.com/how-to-use-a-real-time-clock-module-with-the-arduino/#:~:text=An%20RTC%20is%20a%20very,and%20Time%20on%20an%20Arduino.)
+- [sound sensor](https://randomnerdtutorials.com/guide-for-microphone-sound-sensor-with-arduino/) 
+- [arduino audio input](https://www.instructables.com/Arduino-Audio-Input/)
+- [ Arduino rtc how to use](https://circuitdigest.com/microcontroller-projects/interfacing-ds3231-rtc-with-arduino-and-diy-digital-clock#:~:text=The%20RTC%20keeps%20track%20of,hour%20or%2012%2Dhour%20mode.) 
+- [notes about the rtc charging circuit](https://forum.arduino.cc/t/zs-042-ds3231-rtc-module/268862 )
+- [lm358 audio preamp](https://digitalab.org/2016/08/microphone-pre-amplifier-using-lm358/#.Y_Y89exBwdH) 
+- [lm386 audio amp](https://digitalab.org/2012/10/audio-amplifier-using-lm386/#.Y_Y89exBwdF)
 - https://www.digikey.sg/en/products/detail/texas-instruments/LM358P/277042 lm358 datasheet
 - https://www.ti.com/lit/ds/symlink/lm358.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1675382777300&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Flm358 lm358 datasheet again
 - https://www.whitenoisestudio.com/how-to/cable-soldering-schematics/ xlr mic wiring digram

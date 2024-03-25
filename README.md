@@ -1,5 +1,5 @@
 
-# Project Title
+# Noisy Project
 
 A brief description of what this project does and who it's for
 
@@ -33,10 +33,12 @@ Answer 2
 ## Roadmap
 
 - [ ] expand the mic system
-
 - [ ] fix rtf
-- [ ] List of items that is needed
-- [ ] invert data points so that graph is ok
+- [x] List of items that is needed
+- [ ] Invert data points so that the graph is ok
+
+## Items needed list
+[Items List](https://github.com/Liquefy7822/Noisy-Project-v2/edit/main/README.md)
 
 
 
@@ -46,8 +48,7 @@ Answer 2
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Authors
+## Contributors
 
-- [
 
 

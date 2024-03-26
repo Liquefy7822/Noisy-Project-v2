@@ -47,4 +47,4 @@ Finally, "commit and create pull request" combines the commit and push actions w
 In summary, the differences between these options are:
 
 "Commit": saves your changes to the local repository "Commit and push": saves your changes to the local repository and pushes them to the remote repository "Commit and sync": saves your changes to the local repository, pulls down any new changes from the remote repository, and merges them with your local repository "Commit and create pull request": saves your changes to the local repository, pushes them to the remote repository, and creates a new pull request for review.
-- https://www.pagerduty.com/resources/learn/what-is-a-pull-request/#:~:text=A%20pull%20request%20%E2%80%93%20also%20referred,with%20the%20main%20project%20repository. what pull requests are (tell others you are done and need a review of code)
+- [what pull requests are (tell others you are done and need a review of code](https://www.pagerduty.com/resources/learn/what-is-a-pull-request/#:~:text=A%20pull%20request%20%E2%80%93%20also%20referred,with%20the%20main%20project%20repository.)

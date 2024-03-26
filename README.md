@@ -11,11 +11,7 @@ The primary purpose of this project is to serve as a gentle reminder for student
 
 ## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+contact `Liquefy7822`
 
 
 ## FAQ

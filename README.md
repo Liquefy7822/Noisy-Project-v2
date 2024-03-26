@@ -1,4 +1,5 @@
 ![Logo](https://i.imgur.com/wX8tC0d.png)
+
 # Noisy Project
 
 This project is aimed at helping maintain a quiet environment during O Level practical exams for students. Students designed and developed it for their fellow students appearing for these crucial exams.
@@ -8,12 +9,12 @@ The system uses a microphone to detect sound levels in the examination room. If 
 The primary purpose of this project is to serve as a gentle reminder for students to maintain silence during the practical examinations, thereby minimizing potential distractions and ensuring a conducive environment for everyone to concentrate and perform their best.
 
 
-
+--- 
 ## Contributing
 
 contact `Liquefy7822`
 
-
+---
 ## FAQ
 
 ### Question 1: What is the purpose of this project?
@@ -28,13 +29,7 @@ contact `Liquefy7822`
 ### Question 4: What is the code of conduct for this project?
 > Answer: Please refer to the project's code of conduct, which outlines the expectations and guidelines for contributing to this project. It ensures a respectful and collaborative environment for everyone involved.
 
-
-
-## Features
-
-- 
-
-
+---
 ## Roadmap
 
 - [ ] expand the mic system
@@ -42,17 +37,18 @@ contact `Liquefy7822`
 - [x] List of items that is needed
 - [ ] Invert data points so that the graph is ok
 
+---
 ## Items needed list
 [Items List](https://github.com/Liquefy7822/Noisy-Project-v2/edit/main/README.md)
 
 
 
-
+---
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+---
 ## Contributors
 ### Emmanuel Yee Hong Wei
 [![Emmanuel Yee](https://i.imgur.com/p58UuPg.png?size=50)](https://read.cv/emmanuelyee)
